@@ -1,2 +1,8 @@
-A long time ago, in a galaxy far, far away. Now I am suppose to add some text to my story so wrong that.
+<<<<<<< HEAD
+A long time ago, in a galaxy far, far away. Now I am suppose to add some edits to my story so this that.
+||||||| merged common ancestors
+A long time ago, in a galaxy far, far away. Now I am suppose to add some text to my story so this that.
+=======
+A long time ago, in a galaxy far, far away. Now I am suppose to add some edits to my story so this that.
+>>>>>>> newBranch
 Now for my next act, add some more text. TADA.
